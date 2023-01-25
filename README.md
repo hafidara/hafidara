@@ -1,5 +1,6 @@
 
 **`Software development student`**
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/hrahmane" alt="hrahmane's 42 stats" /></a>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -14,6 +15,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 <!--
 **hafidara/hafidara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
