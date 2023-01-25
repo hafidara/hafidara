@@ -3,6 +3,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/hrahmane" alt="hrahmane's 42 stats" /></a>
 </div>
 <div id="badges" align="center">
