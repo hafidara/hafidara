@@ -15,6 +15,7 @@
   <a href="https://twitter.com/_0xhafida">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  ![hafidara's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafidara&show_icons=true&theme=radical)
 </div>
 
 <!--
