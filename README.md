@@ -25,6 +25,7 @@
   media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=hafidara&show_icons=true" />
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q7ipbudvvw9tya276m6ylizwg&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </picture>
 </div>
 
